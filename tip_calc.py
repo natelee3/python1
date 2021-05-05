@@ -1,3 +1,6 @@
+#Tip Calculator
+#Given the total bill amount and level of service, outputs the correct tip and updates the total.
+
 total = int(input("Total bill amount? "))
 level = input("Level of service? ")
 if level == "good":

@@ -1,3 +1,6 @@
+#Prints a box
+#Given a height and width, print a box consisting of * characters as its border
+
 rows = int(input("Width? "))
 columns = int(input("Height? "))
 

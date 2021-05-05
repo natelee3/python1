@@ -1,3 +1,7 @@
+#Day of the Week
+#Given a number 0-6, prints the corresponding day of the week
+
+
 day = int(input("Day (0-6)? "))
 if day == 0:
     print("Sunday")

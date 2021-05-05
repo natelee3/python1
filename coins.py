@@ -1,3 +1,6 @@
+#How Many Coins?
+#Prompts you for how many coins you want one by one
+
 coins = 0
 print("You have 0 coins.")
 x = input("Do you want another? ")
