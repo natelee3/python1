@@ -2,7 +2,7 @@
 #Given a number 0-6, prints the corresponding day of the week
 
 
-day = int(input("Day (0-6)? "))
+day = input("Day (0-6)? ")
 if day == 0:
     print("Sunday")
 elif day == 1:
@@ -18,4 +18,8 @@ elif day == 5:
 elif day == 6:
     print("Saturday")
 else:
-    print("We'll try again later...")
+    print("That's not a number between 0 and 6. We'll try again later...")
+
+
+
+
